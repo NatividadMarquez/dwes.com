@@ -82,7 +82,7 @@ define("SALTO","<br>");
     else echo "\$numero ya que tiene valor asignado y es $numero<br>";
 
     //Funcion isset()
-    //Devuelve True si la variable eesta definida u no es NULL
+    //Devuelve True si la variable esta definida y no es NULL
     //para comprobar parametros de formularios
 
     if (isset($nueva_variable)) echo "La variable no esta definida<br>";
